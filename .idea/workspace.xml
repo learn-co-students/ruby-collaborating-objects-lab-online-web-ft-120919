@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af650e5e-694d-43eb-b71b-bd02da7f8478" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1VayUZ4wFCr9wibht4LYISDdxCr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af650e5e-694d-43eb-b71b-bd02da7f8478" name="Default Changelist" comment="" />
+      <created>1577505518529</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577505518529</updated>
+      <workItem from="1577505529442" duration="1348000" />
+      <workItem from="1578270501687" duration="3052000" />
+      <workItem from="1578276900485" duration="31000" />
+      <workItem from="1578277668391" duration="646000" />
+      <workItem from="1578278837819" duration="7306000" />
+      <workItem from="1578364789076" duration="7070000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2543" y="222" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1578274591597">
+      <screen x="1920" y="13" width="1920" height="1040" />
+    </state>
+    <state x="2543" y="222" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040/1920.13.1920.1040@1920.13.1920.1040" timestamp="1578274591597" />
+    <state x="-7" y="0" width="974" height="1047" key="dock-window-1" timestamp="1578370593820">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-7" y="0" width="974" height="1047" key="dock-window-1/0.0.1920.1040/1920.13.1920.1040@0.0.1920.1040" timestamp="1578370593820" />
+    <state x="32" y="84" width="1386" height="712" key="dock-window-1/0.0.1920.1040/1920.13.1920.1040@1920.13.1920.1040" timestamp="1578368668427" />
+    <state x="516" y="0" width="1411" height="1015" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1577509346864" />
+    <state x="864" y="140" width="1423" height="1023" key="dock-window-2" timestamp="1578321750058">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="864" y="140" width="1423" height="1023" key="dock-window-2/0.0.1920.1040/1920.13.1920.1040@1920.13.1920.1040" timestamp="1578321750058" />
+  </component>
+</project>
