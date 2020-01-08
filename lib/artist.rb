@@ -18,10 +18,10 @@ class Artist
   def add_song(song)
     song.artist = self 
   end 
-  def self.find_or_create_by_name(name)
-    binding.pry
-    if @@all.include? (self.name) #If the all array includes the name of the artist in question
-      p self.name #print the name of the artist 
+  def self.find_or_create_by_name(name) #look into Artist class to see if artist exist, and if not, creates one
+   found_artist = @@all.detect {|artist| artist.name == name} #or .find
+    if found_artist
+      found_artist
     else 
       self.new(name) #create a new instance with the given name 
     end 
@@ -29,5 +29,7 @@ class Artist
       
   
   end 
-  
+  def print_songs
+       self.songs.each do |song| puts song.name end 
+      end 
 end 
