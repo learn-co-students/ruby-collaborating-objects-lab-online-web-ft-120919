@@ -17,11 +17,11 @@ class Song
   # add_song adds this current song instance to the artist's song list
 
   def self.new_by_filename(filename)
-    song_name = filename.split(' - ')[1]
-    artist = filename.split(' - ')[0]
-    song = Song.new(song_name)
-    song.artist = artist
-    song
+    song = filename.split(" - ")[1]
+    artist = filename.split(" - ")[0]
+    new_song = self.new(song)
+    new_song.artist_name = artist
+    new_song
   end
   # accepts an artist's name, finds or creates an Artist instance and assigns it to the Song's artist attribute
 
