@@ -13,12 +13,13 @@ class Artist
   end
  
   def self.find_or_create_by_name(name)
-    if all.each do |name| name == name 
-      return name 
-    end
-    end
+    my_artist = all.detect { |artist| artist.name == name }
+    if my_artist
+      return my_artist
+    else
       self.new(name)
     end
+  end
   
   def print_songs
     songs.each do |song| song.name 
